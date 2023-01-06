@@ -1,0 +1,18 @@
+#' @title Necessary Raw Data for Generating New Tables With User Input
+#' @description This dataset gives users opportunities to update the outputs with
+#' there own input of relative risks
+#' \describe{
+#' \item{pop}{Population}
+#' \item{gdp}{GDP 1963-2020 in millions of current dollars}
+#' \item{mi}{Median Income 1967-2019}
+#' \item{bmi}{BMI 1996-2019}
+#' \item{disab}{Disability 1981-2019}
+#' \item{employ}{Employment Rate 1950-2020}
+#' \item{med_cost}{Medical Conditions Cost 1996-2018}
+#' \item{med_prev}{Medical Conditions Prevalence 1996-2019}
+#' \item{natl_med_prev}{Medical Conditions National Prevalence 2996-2019}
+#' \item{rel_risk}{Relative Risks}
+#' \item{benefits}{Employee Benefits 1996-2018}
+#' \item{insurance}{insurance_data}
+#' }
+"full_data"
